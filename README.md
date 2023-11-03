@@ -1,4 +1,4 @@
-# Payment Gateway Integration with Java
+# Payment Gateway Integration
 
 This repository contains the project files developed during my internship at CodeClause, where I focused on integrating a payment gateway with a Java-based application. Payment gateway integration is crucial for enabling secure online payments, and this project demonstrates my skills and knowledge in this domain.
 
