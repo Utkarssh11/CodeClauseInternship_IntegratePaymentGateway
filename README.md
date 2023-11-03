@@ -38,5 +38,9 @@ To use this project, follow these steps:
 
 - Java
 
+## About CodeClause
+
+[CodeClause](https://www.example-company.com) is a company that provides software solutions and services. My internship at CodeClause allowed me to work on real-world projects, like this VPN, and gain practical experience in software development.
+
 
 ---
